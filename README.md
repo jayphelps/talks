@@ -21,8 +21,8 @@ In this talk Jay will reveal what it is, how you can use it today, and the incre
 
 > This talk is nearly the same as my _WebAssembly Demystified_ talk, except it assumes the listener already has a fairly solid understanding of native languages like C/C++. It touches on more advanced topics than the other one, and keeps some of the familiar things (like stack machines) brief.
 
-
 ## WebAssembly Demystified
+## (alternative title) Help me WebAssembly, you're my only hope!
 
 - Jazoon - [Website](http://jazoon.com/spring_test/session/webassembly-demystifie/) - [Video](https://www.youtube.com/watch?v=6Y3W94_8scw)
 - Jazoon - [Website](http://jazoon.com/spring_test/session/webassembly-demystifie/) - [Video](https://www.youtube.com/watch?v=cRwUD5SxF4o)
