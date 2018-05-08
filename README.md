@@ -5,7 +5,7 @@ A list of the talks I can/will/have given. If you're interested in me giving one
 
 #### Speaker Description
 
-> Reactive programming nut and compiler enthusiast. Jay is the Chief Software Architect at This Dot, where they provide support, training, mentoring, and software design. Previously a Senior Software Engineer at Netflix. Lover of all things open source, his contributions span numerous ecosystems. RxJS core team member and author of core-decorators, git-blame-someone-else, and co-author of redux-observable.
+> Reactive programming nut and compiler enthusiast. Jay is the Chief Software Architect and Co-founder at This Dot, where they provide support, training, mentoring, and software design. Previously a Senior Software Engineer at Netflix. Lover of all things open source, his contributions span numerous ecosystems. RxJS core team member and author of core-decorators, git-blame-someone-else, and co-author of redux-observable.
 >
 > Follow him on Twitter at [@_jayphelps](https://twitter.com/_jayphelps) (underscore jayphelps)
 
