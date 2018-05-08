@@ -36,7 +36,7 @@ In this talk, Jay will demystify stack assembly languages like WebAssembly, even
 
 ## React, Powered by WebAssembly
 
-- Reactathon - [Website](https://www.reactathon.com/conference)
+- Reactathon - [Video](https://www.youtube.com/watch?v=s2ccNDxRqpo)
 
 WebAssembly (aka wasm) is a new, standardized compilation target for the web, available in all modern browsers. But since it's so low level it can be difficult to see how it will revolutionize the future generations of React apps and potentially even power React itself. In this talk Jay will reveal what it is, how you can use it today, and the incredible opportunities it will continue to unlock.
 
@@ -62,7 +62,7 @@ Let's learn the objective differences and semantics between the two, and compare
 
 ## Why I love JSX!
 
-- Reactathon - [Website](https://www.reactathon.com/conference)
+- Reactathon - [Video](https://www.youtube.com/watch?v=IL-J3pLIAok)
 
 JSX is an XML-like syntax extension to JavaScript, popularized by React. When seen for the first time it can often elicit bad memories of intermixing HTML and code, but JSX is *very* different! Let's learn exactly what it is, how it works, and even how you can use it outside of React.
 
