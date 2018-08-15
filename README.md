@@ -1,3 +1,22 @@
+# Previous Events
+
+- DinosaurJS
+- Node Summit
+- React Rally
+- QCon SF
+- All Things Open
+- Reactathon
+- Jazoon
+- Real World React
+- Wicked Good Ember
+- X Tech Expo
+- VidCon
+- Modern Web
+- Netflix HQ Series
+- Ember Silicon Valley
+- Mountain View JavaScript
+- Silicon Valley JavaScript
+
 # Talks
 
 A list of the talks I can/will/have given. If you're interested in me giving one of these talks or a totally different one, reach out via email [speaking@jayphelps.com](mailto:speaking@jayphelps.com) or PM me https://twitter.com/_jayphelps. Although I can speak about a large range of topics, I'm most passionate about Reactive Programming, RxJS, Compilers, WebAssembly, JavaScript standards, TypeScript, Flow, Reason, Dart, Rust, LLVM, etc.
