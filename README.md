@@ -43,6 +43,7 @@ In this talk Jay will reveal what it is, how you can use it today, and the incre
 ## WebAssembly Demystified
 ## (alternative title) Help me WebAssembly, you're my only hope!
 
+- ReactRally - [Website](http://www.reactrally.com/schedule) - [Video](https://www.youtube.com/watch?v=6KeDFvdxRZk)
 - Jazoon - [Website](http://jazoon.com/spring_test/session/webassembly-demystifie/) - [Video](https://www.youtube.com/watch?v=6Y3W94_8scw)
 - Jazoon - [Website](http://jazoon.com/spring_test/session/webassembly-demystifie/) - [Video](https://www.youtube.com/watch?v=cRwUD5SxF4o)
 - All Things Open - [Website](https://allthingsopen.org/talk/webassembly-demystified/)
