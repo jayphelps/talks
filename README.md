@@ -3,16 +3,17 @@
 - DinosaurJS
 - Node Summit
 - React Rally
-- QCon SF
+- QCon SF (3x)
 - All Things Open
-- Reactathon
-- Jazoon
+- FITC Web Unleashed
+- Reactathon (2x)
+- Jazoon (2x)
 - Real World React
 - Wicked Good Ember
 - X Tech Expo
 - VidCon
-- Modern Web
-- Netflix HQ Series
+- Modern Web (2x)
+- Netflix HQ Series (3x)
 - Ember Silicon Valley
 - Mountain View JavaScript
 - Silicon Valley JavaScript
